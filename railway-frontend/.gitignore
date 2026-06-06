@@ -22,7 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
+# Build output
+bin/
+obj/
 appsettings.json
 *.db
 *.sqlite
